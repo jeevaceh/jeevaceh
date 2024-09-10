@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jeeva</h1>
+<h1 align="center">
+    <img src="https://res.cloudinary.com/dssickgck/image/upload/v1725945009/Projects/iamge_qfw6pc.gif" alt=" ✨  Welcome to my GitHub page. I'm Jeeva. ✨" width="400">
+</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevaceh&label=Profile%20views&color=0e75b6&style=flat" alt="jeevaceh" /> </p>
